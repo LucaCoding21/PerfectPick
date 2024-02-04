@@ -1,0 +1,1294 @@
+{
+  "Aatrox": {
+    "TopCounters": [
+      "Singed",
+      "Udyr",
+      "Poppy"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Aatrox.png"
+  },
+  "Ahri": {
+    "TopCounters": [
+      "Naafiri",
+      "Kassadin",
+      "Vladimir"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Ahri.png"
+  },
+  "Akali": {
+    "TopCounters": [
+      "Naafiri",
+      "Aurelion Sol",
+      "Vex"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Akali.png"
+  },
+  "Alistar": {
+    "TopCounters": [
+      "Sona",
+      "Vel'Koz",
+      "Janna"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Alistar.png"
+  },
+  "Amumu": {
+    "TopCounters": [
+      "Zac",
+      "Nocturne",
+      "Evelynn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Amumu.png"
+  },
+  "Anivia": {
+    "TopCounters": [
+      "Neeko",
+      "Naafiri",
+      "Talon"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Anivia.png"
+  },
+  "Annie": {
+    "TopCounters": [
+      "Lux",
+      "Irelia",
+      "Ziggs"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Annie.png"
+  },
+  "Aphelios": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Nilah",
+      "Miss Fortune"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Aphelios.png"
+  },
+  "Ashe": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Ziggs",
+      "Twitch"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Ashe.png"
+  },
+  "Aurelion-Sol": {
+    "TopCounters": [
+      "Kassadin",
+      "Talon",
+      "Viktor"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Aurelion-Sol.png"
+  },
+  "Azir": {
+    "TopCounters": [
+      "Xerath",
+      "Vex",
+      "Veigar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Azir.png"
+  },
+  "Bard": {
+    "TopCounters": [
+      "Sona",
+      "Renata Glasc",
+      "Zyra"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Bard.png"
+  },
+  "Blitzcrank": {
+    "TopCounters": [
+      "Rakan",
+      "Braum",
+      "Maokai"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Blitzcrank.png"
+  },
+  "Brand": {
+    "TopCounters": [
+      "Maokai",
+      "Zyra",
+      "Zilean"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Brand.png"
+  },
+  "Braum": {
+    "TopCounters": [
+      "Zilean",
+      "Maokai",
+      "Taric"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Braum.png"
+  },
+  "Caitlyn": {
+    "TopCounters": [
+      "Ziggs",
+      "Ashe",
+      "Jhin"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Caitlyn.png"
+  },
+  "Camille": {
+    "TopCounters": [
+      "Volibear",
+      "Teemo",
+      "Poppy"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Camille.png"
+  },
+  "Cassiopeia": {
+    "TopCounters": [
+      "Neeko",
+      "Syndra",
+      "Malzahar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Cassiopeia.png"
+  },
+  "ChoGath": {
+    "TopCounters": [
+      "Fiora",
+      "Dr. Mundo",
+      "Quinn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/ChoGath.png"
+  },
+  "Corki": {
+    "TopCounters": [
+      "Lux",
+      "Veigar",
+      "Yone"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Corki.png"
+  },
+  "Darius": {
+    "TopCounters": [
+      "Kayle",
+      "Quinn",
+      "Ornn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Darius.png"
+  },
+  "Diana": {
+    "TopCounters": [
+      "Skarner",
+      "Briar",
+      "Udyr"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Diana.png"
+  },
+  "Dr-Mundo": {
+    "TopCounters": [
+      "Nasus",
+      "Olaf",
+      "Gwen"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Dr-Mundo.png"
+  },
+  "Draven": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Ziggs",
+      "Miss Fortune"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Draven.png"
+  },
+  "Ekko": {
+    "TopCounters": [
+      "Ivern",
+      "Skarner",
+      "Briar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Ekko.png"
+  },
+  "Elise": {
+    "TopCounters": [
+      "Gragas",
+      "Nocturne",
+      "Maokai"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Elise.png"
+  },
+  "Evelynn": {
+    "TopCounters": [
+      "Warwick",
+      "Rek'Sai",
+      "Briar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Evelynn.png"
+  },
+  "Ezreal": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Ziggs",
+      "Vayne"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Ezreal.png"
+  },
+  "Fiddlesticks": {
+    "TopCounters": [
+      "Shyvana",
+      "Zac",
+      "Nocturne"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Fiddlesticks.png"
+  },
+  "Fiora": {
+    "TopCounters": [
+      "Quinn",
+      "Malphite",
+      "Poppy"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Fiora.png"
+  },
+  "Fizz": {
+    "TopCounters": [
+      "Kassadin",
+      "Pantheon",
+      "Anivia"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Fizz.png"
+  },
+  "Galio": {
+    "TopCounters": [
+      "Xerath",
+      "Syndra",
+      "Aurelion Sol"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Galio.png"
+  },
+  "Gangplank": {
+    "TopCounters": [
+      "Quinn",
+      "Tryndamere",
+      "Dr. Mundo"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Gangplank.png"
+  },
+  "Garen": {
+    "TopCounters": [
+      "Kayle",
+      "Camille",
+      "Ornn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Garen.png"
+  },
+  "Gnar": {
+    "TopCounters": [
+      "Olaf",
+      "Ornn",
+      "Malphite"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Gnar.png"
+  },
+  "Gragas": {
+    "TopCounters": [
+      "Amumu",
+      "Rell",
+      "Talon"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Gragas.png"
+  },
+  "Graves": {
+    "TopCounters": [
+      "Fiddlesticks",
+      "Briar",
+      "Evelynn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Graves.png"
+  },
+  "Hecarim": {
+    "TopCounters": [
+      "Brand",
+      "Skarner",
+      "Udyr"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Hecarim.png"
+  },
+  "Heimerdinger": {
+    "TopCounters": [
+      "Milio",
+      "Alistar",
+      "Xerath"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Heimerdinger.png"
+  },
+  "Illaoi": {
+    "TopCounters": [
+      "Yorick",
+      "Mordekaiser",
+      "Kayle"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Illaoi.png"
+  },
+  "Irelia": {
+    "TopCounters": [
+      "Warwick",
+      "Malphite",
+      "Jax"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Irelia.png"
+  },
+  "Ivern": {
+    "TopCounters": [
+      "Fiddlesticks",
+      "Brand",
+      "Briar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Ivern.png"
+  },
+  "Janna": {
+    "TopCounters": [
+      "Maokai",
+      "Soraka",
+      "Braum"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Janna.png"
+  },
+  "Jarvan-IV": {
+    "TopCounters": [
+      "Master Yi",
+      "Nocturne",
+      "Brand"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Jarvan-IV.png"
+  },
+  "Jax": {
+    "TopCounters": [
+      "Garen",
+      "Illaoi",
+      "Heimerdinger"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Jax.png"
+  },
+  "Jayce": {
+    "TopCounters": [
+      "Warwick",
+      "Urgot",
+      "Nasus"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Jayce.png"
+  },
+  "Jhin": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Vayne",
+      "Twitch"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Jhin.png"
+  },
+  "Jinx": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Ziggs",
+      "Nilah"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Jinx.png"
+  },
+  "KaiSa": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Nilah",
+      "Vayne"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/KaiSa.png"
+  },
+  "Kalista": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Miss Fortune",
+      "Nilah"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Kalista.png"
+  },
+  "Karma": {
+    "TopCounters": [
+      "Maokai",
+      "Taric",
+      "Nautilus"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Karma.png"
+  },
+  "Karthus": {
+    "TopCounters": [
+      "Shyvana",
+      "Ivern",
+      "Rammus"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Karthus.png"
+  },
+  "Kassadin": {
+    "TopCounters": [
+      "Naafiri",
+      "Akshan",
+      "Annie"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Kassadin.png"
+  },
+  "Katarina": {
+    "TopCounters": [
+      "Annie",
+      "Naafiri",
+      "Fizz"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Katarina.png"
+  },
+  "Kayle": {
+    "TopCounters": [
+      "Kennen",
+      "Nasus",
+      "Irelia"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Kayle.png"
+  },
+  "Kayn": {
+    "TopCounters": [
+      "Skarner",
+      "Fiddlesticks",
+      "Nocturne"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Kayn.png"
+  },
+  "Kennen": {
+    "TopCounters": [
+      "Dr. Mundo",
+      "Nasus",
+      "Ornn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Kennen.png"
+  },
+  "KhaZix": {
+    "TopCounters": [
+      "Rammus",
+      "Nocturne",
+      "Zac"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/KhaZix.png"
+  },
+  "Kindred": {
+    "TopCounters": [
+      "Master Yi",
+      "Xin Zhao",
+      "Fiddlesticks"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Kindred.png"
+  },
+  "Kled": {
+    "TopCounters": [
+      "Fiora",
+      "Camille",
+      "Malphite"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Kled.png"
+  },
+  "KogMaw": {
+    "TopCounters": [
+      "Nilah",
+      "Sivir",
+      "Ashe"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/KogMaw.png"
+  },
+  "LeBlanc": {
+    "TopCounters": [
+      "Naafiri",
+      "Akshan",
+      "Annie"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/LeBlanc.png"
+  },
+  "Lee-Sin": {
+    "TopCounters": [
+      "Maokai",
+      "Skarner",
+      "Briar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Lee-Sin.png"
+  },
+  "Leona": {
+    "TopCounters": [
+      "Braum",
+      "Morgana",
+      "Soraka"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Leona.png"
+  },
+  "Lissandra": {
+    "TopCounters": [
+      "Veigar",
+      "Anivia",
+      "Xerath"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Lissandra.png"
+  },
+  "Lucian": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Ziggs",
+      "Ashe"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Lucian.png"
+  },
+  "Lulu": {
+    "TopCounters": [
+      "Sona",
+      "Heimerdinger",
+      "Blitzcrank"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Lulu.png"
+  },
+  "Lux": {
+    "TopCounters": [
+      "Xerath",
+      "Tahm Kench",
+      "Galio"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Lux.png"
+  },
+  "Malphite": {
+    "TopCounters": [
+      "Dr. Mundo",
+      "Cho'Gath",
+      "Ornn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Malphite.png"
+  },
+  "Malzahar": {
+    "TopCounters": [
+      "Talon",
+      "Taliyah",
+      "Viktor"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Malzahar.png"
+  },
+  "Maokai": {
+    "TopCounters": [
+      "Rammus",
+      "Ivern",
+      "Shyvana"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Maokai.png"
+  },
+  "Master-Yi": {
+    "TopCounters": [
+      "Rammus",
+      "Shaco",
+      "Ivern"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Master-Yi.png"
+  },
+  "Miss-Fortune": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Ziggs",
+      "Sivir"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Miss-Fortune.png"
+  },
+  "Mordekaiser": {
+    "TopCounters": [
+      "Singed",
+      "Nasus",
+      "Kayle"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Mordekaiser.png"
+  },
+  "Morgana": {
+    "TopCounters": [
+      "Heimerdinger",
+      "Tahm Kench",
+      "Milio"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Morgana.png"
+  },
+  "Nami": {
+    "TopCounters": [
+      "Zyra",
+      "Soraka",
+      "Rakan"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Nami.png"
+  },
+  "Nasus": {
+    "TopCounters": [
+      "Kled",
+      "Shen",
+      "Tahm Kench"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Nasus.png"
+  },
+  "Nautilus": {
+    "TopCounters": [
+      "Taric",
+      "Braum",
+      "Maokai"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Nautilus.png"
+  },
+  "Neeko": {
+    "TopCounters": [
+      "Kassadin",
+      "Xerath",
+      "Galio"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Neeko.png"
+  },
+  "Nidalee": {
+    "TopCounters": [
+      "Rammus",
+      "Amumu",
+      "Xin Zhao"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Nidalee.png"
+  },
+  "Nocturne": {
+    "TopCounters": [
+      "Ivern",
+      "Zac",
+      "Lillia"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Nocturne.png"
+  },
+  "Nunu-Willump": {
+    "TopCounters": [
+      "Diana",
+      "Briar",
+      "Rammus"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Nunu-Willump.png"
+  },
+  "Olaf": {
+    "TopCounters": [
+      "Quinn",
+      "Kled",
+      "Trundle"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Olaf.png"
+  },
+  "Orianna": {
+    "TopCounters": [
+      "Aurelion Sol",
+      "Xerath",
+      "Diana"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Orianna.png"
+  },
+  "Ornn": {
+    "TopCounters": [
+      "Fiora",
+      "Dr. Mundo",
+      "Tryndamere"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Ornn.png"
+  },
+  "Pantheon": {
+    "TopCounters": [
+      "Dr. Mundo",
+      "Malphite",
+      "Ornn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Pantheon.png"
+  },
+  "Poppy": {
+    "TopCounters": [
+      "Evelynn",
+      "Rammus",
+      "Ivern"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Poppy.png"
+  },
+  "Pyke": {
+    "TopCounters": [
+      "Maokai",
+      "Soraka",
+      "Shaco"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Pyke.png"
+  },
+  "Qiyana": {
+    "TopCounters": [
+      "Taliyah",
+      "Naafiri",
+      "Vex"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Qiyana.png"
+  },
+  "Quinn": {
+    "TopCounters": [
+      "Dr. Mundo",
+      "Malphite",
+      "Mordekaiser"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Quinn.png"
+  },
+  "Rakan": {
+    "TopCounters": [
+      "Taric",
+      "Soraka",
+      "Maokai"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Rakan.png"
+  },
+  "Rammus": {
+    "TopCounters": [
+      "Amumu",
+      "Lillia",
+      "Evelynn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Rammus.png"
+  },
+  "RekSai": {
+    "TopCounters": [
+      "Maokai",
+      "Nocturne",
+      "Fiddlesticks"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/RekSai.png"
+  },
+  "Renekton": {
+    "TopCounters": [
+      "Illaoi",
+      "Dr. Mundo",
+      "Ornn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Renekton.png"
+  },
+  "Rengar": {
+    "TopCounters": [
+      "Rammus",
+      "Briar",
+      "Amumu"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Rengar.png"
+  },
+  "Riven": {
+    "TopCounters": [
+      "Cho'Gath",
+      "Malphite",
+      "Quinn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Riven.png"
+  },
+  "Rumble": {
+    "TopCounters": [
+      "Cho'Gath",
+      "Singed",
+      "Irelia"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Rumble.png"
+  },
+  "Ryze": {
+    "TopCounters": [
+      "Naafiri",
+      "Xerath",
+      "Tristana"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Ryze.png"
+  },
+  "Samira": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Nilah",
+      "Jinx"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Samira.png"
+  },
+  "Sejuani": {
+    "TopCounters": [
+      "Rammus",
+      "Zac",
+      "Ivern"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Sejuani.png"
+  },
+  "Senna": {
+    "TopCounters": [
+      "Zyra",
+      "Xerath",
+      "Blitzcrank"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Senna.png"
+  },
+  "Sett": {
+    "TopCounters": [
+      "Dr. Mundo",
+      "Quinn",
+      "Kayle"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Sett.png"
+  },
+  "Shaco": {
+    "TopCounters": [
+      "Briar",
+      "Skarner",
+      "Lillia"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Shaco.png"
+  },
+  "Shen": {
+    "TopCounters": [
+      "Mordekaiser",
+      "Kayle",
+      "Kled"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Shen.png"
+  },
+  "Shyvana": {
+    "TopCounters": [
+      "Briar",
+      "Lillia",
+      "Bel'Veth"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Shyvana.png"
+  },
+  "Singed": {
+    "TopCounters": [
+      "Kayle",
+      "Illaoi",
+      "Gangplank"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Singed.png"
+  },
+  "Sion": {
+    "TopCounters": [
+      "Gwen",
+      "Singed",
+      "Kayle"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Sion.png"
+  },
+  "Sivir": {
+    "TopCounters": [
+      "Vayne",
+      "Twitch",
+      "Ashe"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Sivir.png"
+  },
+  "Skarner": {
+    "TopCounters": [
+      "Lillia",
+      "Nocturne",
+      "Briar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Skarner.png"
+  },
+  "Sona": {
+    "TopCounters": [
+      "Lux",
+      "Nami",
+      "Zilean"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Sona.png"
+  },
+  "Soraka": {
+    "TopCounters": [
+      "Sona",
+      "Taric",
+      "Morgana"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Soraka.png"
+  },
+  "Swain": {
+    "TopCounters": [
+      "Milio",
+      "Xerath",
+      "Sona"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Swain.png"
+  },
+  "Sylas": {
+    "TopCounters": [
+      "Naafiri",
+      "Cassiopeia",
+      "Malzahar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Sylas.png"
+  },
+  "Syndra": {
+    "TopCounters": [
+      "Fizz",
+      "Diana",
+      "Xerath"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Syndra.png"
+  },
+  "Tahm-Kench": {
+    "TopCounters": [
+      "Singed",
+      "Gwen",
+      "Olaf"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Tahm-Kench.png"
+  },
+  "Taliyah": {
+    "TopCounters": [
+      "Shaco",
+      "Ivern",
+      "Rengar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Taliyah.png"
+  },
+  "Talon": {
+    "TopCounters": [
+      "Annie",
+      "Ziggs",
+      "Galio"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Talon.png"
+  },
+  "Taric": {
+    "TopCounters": [
+      "Milio",
+      "Nami",
+      "Bard"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Taric.png"
+  },
+  "Teemo": {
+    "TopCounters": [
+      "Kayle",
+      "Yorick",
+      "Olaf"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Teemo.png"
+  },
+  "Thresh": {
+    "TopCounters": [
+      "Maokai",
+      "Sona",
+      "Zyra"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Thresh.png"
+  },
+  "Tristana": {
+    "TopCounters": [
+      "Nilah",
+      "Ziggs",
+      "Tahm Kench"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Tristana.png"
+  },
+  "Trundle": {
+    "TopCounters": [
+      "Zac",
+      "Lillia",
+      "Taliyah"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Trundle.png"
+  },
+  "Tryndamere": {
+    "TopCounters": [
+      "Malphite",
+      "Warwick",
+      "Nasus"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Tryndamere.png"
+  },
+  "Twisted-Fate": {
+    "TopCounters": [
+      "Vel'Koz",
+      "Kassadin",
+      "Naafiri"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Twisted-Fate.png"
+  },
+  "Twitch": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Vayne",
+      "Nilah"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Twitch.png"
+  },
+  "Udyr": {
+    "TopCounters": [
+      "Ivern",
+      "Briar",
+      "Rammus"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Udyr.png"
+  },
+  "Urgot": {
+    "TopCounters": [
+      "Kayle",
+      "Ornn",
+      "Dr. Mundo"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Urgot.png"
+  },
+  "Varus": {
+    "TopCounters": [
+      "Ziggs",
+      "Miss Fortune",
+      "Tahm Kench"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Varus.png"
+  },
+  "Vayne": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Kog'Maw",
+      "Miss Fortune"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Vayne.png"
+  },
+  "Veigar": {
+    "TopCounters": [
+      "Xerath",
+      "Anivia",
+      "Fizz"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Veigar.png"
+  },
+  "VelKoz": {
+    "TopCounters": [
+      "Sona",
+      "Milio",
+      "Zilean"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/VelKoz.png"
+  },
+  "Vi": {
+    "TopCounters": [
+      "Nocturne",
+      "Rammus",
+      "Taliyah"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Vi.png"
+  },
+  "Viktor": {
+    "TopCounters": [
+      "Vel'Koz",
+      "Kassadin",
+      "Annie"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Viktor.png"
+  },
+  "Vladimir": {
+    "TopCounters": [
+      "Ryze",
+      "Malzahar",
+      "Xerath"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Vladimir.png"
+  },
+  "Volibear": {
+    "TopCounters": [
+      "Quinn",
+      "Teemo",
+      "Ornn"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Volibear.png"
+  },
+  "Warwick": {
+    "TopCounters": [
+      "Lillia",
+      "Wukong",
+      "Kha'Zix"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Warwick.png"
+  },
+  "Wukong": {
+    "TopCounters": [
+      "Ivern",
+      "Shyvana",
+      "Fiddlesticks"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Wukong.png"
+  },
+  "Xayah": {
+    "TopCounters": [
+      "Ziggs",
+      "Ashe",
+      "Tahm Kench"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Xayah.png"
+  },
+  "Xerath": {
+    "TopCounters": [
+      "Shaco",
+      "Sona",
+      "Tahm Kench"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Xerath.png"
+  },
+  "Xin-Zhao": {
+    "TopCounters": [
+      "Briar",
+      "Ivern",
+      "Amumu"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Xin-Zhao.png"
+  },
+  "Yasuo": {
+    "TopCounters": [
+      "Taliyah",
+      "Vex",
+      "Malzahar"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Yasuo.png"
+  },
+  "Yone": {
+    "TopCounters": [
+      "Warwick",
+      "Olaf",
+      "Urgot"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Yone.png"
+  },
+  "Yorick": {
+    "TopCounters": [
+      "Poppy",
+      "Trundle",
+      "Kayle"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Yorick.png"
+  },
+  "Yuumi": {
+    "TopCounters": [
+      "Nautilus",
+      "Maokai",
+      "Rell"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Yuumi.png"
+  },
+  "Zac": {
+    "TopCounters": [
+      "Ivern",
+      "Kayn",
+      "Lillia"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Zac.png"
+  },
+  "Zed": {
+    "TopCounters": [
+      "Xerath",
+      "Sylas",
+      "Ziggs"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Zed.png"
+  },
+  "Ziggs": {
+    "TopCounters": [
+      "Tahm Kench",
+      "Vayne",
+      "Nilah"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Ziggs.png"
+  },
+  "Zilean": {
+    "TopCounters": [
+      "Soraka",
+      "Taric",
+      "Janna"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Zilean.png"
+  },
+  "Zoe": {
+    "TopCounters": [
+      "Naafiri",
+      "Aurelion Sol",
+      "Fizz"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Zoe.png"
+  },
+  "Zyra": {
+    "TopCounters": [
+      "Xerath",
+      "Tahm Kench",
+      "Milio"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Zyra.png"
+  },
+  "Seraphine": {
+    "TopCounters": [
+      "Xerath",
+      "Milio",
+      "Sona"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Seraphine.png"
+  },
+  "Tell": {
+    "TopCounters": [],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Tell.png"
+  },
+  "Diego": {
+    "TopCounters": [],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Diego.png"
+  },
+  "Gwen": {
+    "TopCounters": [
+      "Singed",
+      "Poppy",
+      "Tryndamere"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Gwen.png"
+  },
+  "Anshan": {
+    "TopCounters": [],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Anshan.png"
+  },
+  "Vex": {
+    "TopCounters": [
+      "Cassiopeia",
+      "Ryze",
+      "Aurelion Sol"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Vex.png"
+  },
+  "Zeri": {
+    "TopCounters": [
+      "Nilah",
+      "Vayne",
+      "Tristana"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Zeri.png"
+  },
+  "Renata-Glasc": {
+    "TopCounters": [
+      "Maokai",
+      "Vel'Koz",
+      "Soraka"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Renata-Glasc.png"
+  },
+  "BelVeth": {
+    "TopCounters": [
+      "Wukong",
+      "Brand",
+      "Sejuani"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/BelVeth.png"
+  },
+  "Nilah": {
+    "TopCounters": [
+      "Xayah",
+      "Ashe",
+      "Jhin"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Nilah.png"
+  },
+  "KSante": {
+    "TopCounters": [
+      "Kayle",
+      "Singed",
+      "Fiora"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/KSante.png"
+  },
+  "Milio": {
+    "TopCounters": [
+      "Sona",
+      "Soraka",
+      "Zilean"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Milio.png"
+  },
+  "Naafiri": {
+    "TopCounters": [
+      "Lissandra",
+      "Neeko",
+      "Ziggs"
+    ],
+    "ChampImg": "https://www.mobafire.com/images/champion/square/Naafiri.png"
+  }
+}
