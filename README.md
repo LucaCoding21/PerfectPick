@@ -15,7 +15,6 @@ How to code a webscraper using Python
 HTTP GET responses
 CSS and HTML and Javascript
 
-<img width="1470" alt="Screen Shot 2024-02-10 at 8 15 01 PM" src="https://github.com/LucaCoding21/PerfectPick/assets/120162296/070486c1-7956-468e-b799-cbebfe69daa0">
-<img width="1470" alt="Screen Shot 2024-02-10 at 8 15 09 PM" src="https://github.com/LucaCoding21/PerfectPick/assets/120162296/c73046c4-34b5-40ea-aa1f-fbae06915c12">
-
-
+<img width="1470" alt="Screen Shot 2024-02-10 at 8 31 34 PM" src="https://github.com/LucaCoding21/PerfectPick/assets/120162296/723b744a-1b7b-4bee-8beb-31811131a6ea">
+<img width="1470" alt="Screen Shot 2024-02-10 at 8 32 01 PM" src="https://github.com/LucaCoding21/PerfectPick/assets/120162296/68763ddd-983b-49c1-af0e-ba6b213d21a9">
+<img width="1470" alt="Screen Shot 2024-02-10 at 8 32 32 PM" src="https://github.com/LucaCoding21/PerfectPick/assets/120162296/010fde51-6088-435b-bf08-a1589091b80f">
